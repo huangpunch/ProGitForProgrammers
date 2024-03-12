@@ -25,7 +25,7 @@
 
 
 //#define MAX_FINGERS     20
-#define MAX_FINGERS     10
+#define MAX_FINGERS     40
 #define LOGICAL_RES     4096 //32768
 #define TP_H            18900    // mm/10, Physical horizontal size
 #define TP_V            10600    // mm/10, Physical vertical size
